@@ -22,7 +22,7 @@ Maybe one day I will have a blog and something to read :)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat-square&logo=linux&logoColor=white&color=bb00db)
 
 ## 📈 Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBrin&hide=html&theme=vue&title_color=bb00db&icon_color=bb00db)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexBrin&hide=html,python&theme=vue&title_color=bb00db&icon_color=bb00db)
 ![](https://github-readme-stats.vercel.app/api?username=AlexBrin&show_icons=true&line_height=27&count_private=true&theme=vue&title_color=bb00db&icon_color=bb00db)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=AlexBrin&repo=laravel-tideways-xhprof&theme=vue&title_color=bb00db&icon_color=bb00db)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=AlexBrin&repo=go-vk-bot&theme=vue&title_color=bb00db&icon_color=bb00db)
