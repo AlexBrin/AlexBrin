@@ -1,6 +1,6 @@
 # Hello, friends <img src="https://raw.githubusercontent.com/AlexBrin/AlexBrin/master/wave.gif" width="40px">
 
-My name is Alex. I'm from Kazakhstan, but live and work in Russia at Creative Motion.
+My name is Alex. I'm from Kazakhstan, but live and work in Russia.
 
 Maybe one day I will have a blog and something to read :)
 
