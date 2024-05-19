@@ -1,6 +1,6 @@
 # Hello, friends <img src="https://raw.githubusercontent.com/AlexBrin/AlexBrin/master/wave.gif" width="40px">
 
-My name is Alex. I'm from Kazakhstan, but live and work in Russia.
+My name is Alex. I'm from Kazakhstan.
 
 Maybe one day I will have a blog and something to read :)
 
@@ -16,6 +16,7 @@ Maybe one day I will have a blog and something to read :)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat-square&logo=laravel&logoColor=white&color=bb00db)
 ![](https://img.shields.io/badge/Code-Express-informational?style=flat-square&logo=javascript&logoColor=white&color=bb00db)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat-square&logo=vue.js&logoColor=white&color=bb00db)
+![](https://img.shields.io/badge/Code-Svelte-informational?style=flat-square&logo=Svelte&logoColor=white&color=bb00db)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=bb00db)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat-square&logo=linux&logoColor=white&color=bb00db)
 
