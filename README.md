@@ -7,6 +7,7 @@ Maybe one day I will have a blog and something to read :)
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white&color=bb00db)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=white&color=bb00db)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat-square&logo=apple&logoColor=white&color=bb00db)
 ![](https://img.shields.io/badge/Editors-JetBrains-informational?style=flat-square&logo=jetbrains&logoColor=white&color=bb00db)
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat-square&logo=php&logoColor=white&color=bb00db)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat-square&logo=go&logoColor=white&color=bb00db)
